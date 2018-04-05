@@ -10,6 +10,8 @@ import android.widget.RadioGroup;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
+import com.nbt.fontsimulator.kotlin.R;
+
 public class MainActivity extends AppCompatActivity
         implements SeekBar.OnSeekBarChangeListener, RadioGroup.OnCheckedChangeListener {
 
